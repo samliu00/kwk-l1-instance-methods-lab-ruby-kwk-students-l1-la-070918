@@ -16,4 +16,4 @@ end
 
 end 
 
-puts Dog.name = "Woof!"
+puts Dog.bark = "Woof!"
