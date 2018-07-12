@@ -16,4 +16,4 @@ end
 
 end 
 
-puts 
+puts dog_one
