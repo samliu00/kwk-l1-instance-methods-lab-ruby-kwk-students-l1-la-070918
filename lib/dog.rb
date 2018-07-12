@@ -5,8 +5,9 @@ class Dog
     @bark = bark 
     @sit = sit
   end
-end
 
 initialize("Woof!", "The Dog is sitting")
+
+end
 
 
