@@ -7,6 +7,6 @@ class Dog
   end
 end
 
-puts initialize("Woof!", "The Dog is sitting")
+initialize("Woof!", "The Dog is sitting")
 
 
