@@ -10,4 +10,6 @@ initialize("Woof!", "The Dog is sitting")
 
 end
 
+puts "class Dog"
+
 
