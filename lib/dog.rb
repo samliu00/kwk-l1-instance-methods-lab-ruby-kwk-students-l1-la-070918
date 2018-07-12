@@ -7,5 +7,5 @@ class Dog
   end
 end
 
-dog_one = Dog.new
+dog_one = Dog.new("Woof!", "The Dog is sitting")
 
