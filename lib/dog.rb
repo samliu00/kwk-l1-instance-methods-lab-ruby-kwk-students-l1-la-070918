@@ -6,6 +6,7 @@ class Dog
     @sit = sit
   end
 
-  def 
+  def bark
+    
 
 
