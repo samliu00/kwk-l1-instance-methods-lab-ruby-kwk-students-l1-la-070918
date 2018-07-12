@@ -11,5 +11,6 @@ def bark
   @bark 
 end 
 
-def bark=()
+def bark=(new_bark)
+  
 
