@@ -1,9 +1,9 @@
 # dog.rb
 
 class Dog  
-  def initialize
-    @bark = "Woof!"
-    @sit = "The Dog is sitting"
+  def initialize(bark, sit)
+    @bark = bark 
+    @sit = 
   end
 end
 
