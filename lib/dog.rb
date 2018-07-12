@@ -6,14 +6,4 @@ class Dog
     @sit = sit
   end
 
-def bark 
-  @bark 
-end 
 
-def bark=(new_bark)
-  @bark = new_bark 
-end
-
-end 
-
-puts Dog.bark = "Woof!"
