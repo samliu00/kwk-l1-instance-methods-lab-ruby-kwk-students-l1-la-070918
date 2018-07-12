@@ -5,10 +5,6 @@ class Dog
     @bark = bark 
     @sit = sit
   end
-  initialize("Woof!", "The Dog is sitting")
 
-end
-
-puts "class Dog"
 
 
