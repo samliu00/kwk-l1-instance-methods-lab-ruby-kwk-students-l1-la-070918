@@ -9,5 +9,7 @@ end
 
 def bark 
   @bark 
-  
+end 
+
+def bark
 
